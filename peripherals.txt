@@ -1,4 +1,4 @@
-Peripherals:
+PC Peripherals:
 Mouse
 Touchpad
 Pendrive
