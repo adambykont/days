@@ -1,5 +1,8 @@
 Random
 Access
 Memory
+RAM
 Read
+Only
 Memory
+ROM
